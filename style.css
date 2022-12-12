@@ -3,6 +3,25 @@ body{
     padding: 60px;
     padding-left: 300px;
     padding-right: 300px;
+    background-color: #3c2b3b;
+    color: #faebd1;
+
+}
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: lavender;
+}
+
+p{
+    font-size: 14pt;
+}
+
+img{
+    border: solid;
 }
 
 ul{
@@ -14,4 +33,8 @@ ul{
     width: 152px;
     height: 174px;
     
+}
+
+.contactLinks{
+    padding: 15px;
 }
