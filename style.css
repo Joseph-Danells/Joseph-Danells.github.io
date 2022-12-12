@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    padding: 60px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+ul{
+    margin: auto;
+    width: 150px;
+}
+
+#JoeImg{
+    width: 152px;
+    height: 174px;
+    
+}
