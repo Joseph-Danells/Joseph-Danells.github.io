@@ -5,6 +5,7 @@ body{
     padding-right: 300px;
     background-color: #3c2b3b;
     color: #faebd1;
+    font-size: 14pt;
 
 }
 
@@ -14,10 +15,6 @@ a:link{
 
 a:visited{
     color: lavender;
-}
-
-p{
-    font-size: 14pt;
 }
 
 img{
